@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-last update: July. 24, 2021
+last update: July. 27, 2021
 
 # About Me
 In February 2022, I am planning to graduate at Handong Global University. 
