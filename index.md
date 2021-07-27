@@ -5,11 +5,9 @@ layout: about
 last update: July. 24, 2021
 
 # About Me
-I am planning to graduate in February 2022. My major is Computer-Science. 
-Now, I am intereted in 
-    * Mobile Application Development
-    * Server Management
-    * Deep-learning
+In February 2022, I am planning to graduate at Handong Global University. 
+My major is Computer-Science.
+If you want to contact with me, please send me email.
 
 <br/>
 
@@ -33,6 +31,7 @@ Now, I am intereted in
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+* Mobile Application Development
+* Server, Database Management
+* Deep-learning
+*
