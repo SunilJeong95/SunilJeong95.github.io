@@ -5,8 +5,8 @@ layout: about
 last update: July. 27, 2021
 
 # About Me
-In February 2022, I am planning to graduate at Handong Global University. 
-My major is Computer-Science.
+In February 2022, I am planning to graduate at Handong Global University. <br/>
+My major is Computer-Science.<br/>
 If you want to contact with me, please send me email.
 
 <br/>
