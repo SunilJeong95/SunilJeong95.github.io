@@ -12,18 +12,18 @@ If you want to contact with me, please send me email.
 <br/>
 
 # Project Experiences
-* Search Engine for Korean Unification [2021.04. ~ 2021.06.]
+* Search Engine for Korean Unification papers [2021.04. ~ 2021.06.]
 * [R&D] Voice-cloning Speech Synthesis using FastSpeech2 [2020.08 ~ 2021.04]
-* Building Simple Racket Language using JAVA language [2020.10 ~ 2020.12]
 * Escaple Room VR Game [2021.01.21. ~ 2021.01.22.]
-* Simple Social Network System App for Pohang Elementary School [2020.08. ~ 2020.09.]
+* Building Simple Racket Language using JAVA language [2020.10 ~ 2020.12]
+* Simple Social Network System App for Pohang Elementary School student [2020.08. ~ 2020.09.]
 * iOS Application for GroupBuying [2020.07. ~ 2020.08]
 
 <br/>
 
 # Skills
 * C, C#, C++, Python, JAVA, Dart, Swift, Racket  and etc...
-* MySQL, NoSQL, Firebase, Firestore, 
+* MySQL, NoSQL, Firebase, Firestore
 * Flask, Flutter, iOS, Pytorch
 * Windows, Linux(Ubuntu, CentOS), Unix(MacOS)
 * Amazon Web Services, Server Management, Mobile Programming, Git, Deep-learning, IoT
@@ -33,5 +33,6 @@ If you want to contact with me, please send me email.
 # Interests
 * Mobile Application Development
 * Server, Database Management
+* Alogrithm
 * Deep-learning
 *
