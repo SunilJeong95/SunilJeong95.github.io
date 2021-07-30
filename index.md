@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-last update: July. 27, 2021
+last update: July. 30, 2021
 
 # About Me
 In February 2022, I am planning to graduate at Handong Global University. <br/>
@@ -24,9 +24,9 @@ If you want to contact with me, please send me email.
 # Skills
 * C, C#, C++, Python, JAVA, Dart, Swift, Racket  and etc...
 * MySQL, NoSQL, Firebase, Firestore
-* Flask, Flutter, iOS, Pytorch
+* Flask, Flutter, iOS, Pytorch, Unity
 * Windows, Linux(Ubuntu, CentOS), Unix(MacOS)
-* Amazon Web Services, Server Management, Mobile Programming, Git, Deep-learning, IoT
+* Amazon Web Services, Server Management, Mobile Programming, Git, Deep-learning, VR
 
 <br/>
 
@@ -35,4 +35,3 @@ If you want to contact with me, please send me email.
 * Server, Database Management
 * Alogrithm
 * Deep-learning
-*
