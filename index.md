@@ -22,7 +22,7 @@ If you want to contact with me, please send me email.
 <br/>
 
 # Skills
-* C, C#, C++, Python, JAVA, Dart, Swift, Racket  and etc...
+* C, C#, C++, Python, Java, Swift and etc...
 * MySQL, NoSQL, Firebase, Firestore
 * Flask, Flutter, iOS, Pytorch, Unity
 * Windows, Linux(Ubuntu, CentOS), Unix(MacOS)
