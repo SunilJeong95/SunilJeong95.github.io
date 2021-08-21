@@ -18,22 +18,22 @@ In Private Lessoning Project, I added real-time chatting. Also, I added location
 **Login Part** 
 
 <img width="464" alt="login" src="https://user-images.githubusercontent.com/60295192/130327982-1be0fe4f-418e-4a30-ada1-2f1745768953.png">
-    * Type selection (Student, Teacher)
-    * Facebook Login
-    * Google Login
+- Type selection (Student, Teacher)
+- Facebook Login
+- Google Login
 
 
 **Home Part**
 
 <img width="1165" alt="home" src="https://user-images.githubusercontent.com/60295192/130328035-840afdd1-f317-4e09-ad56-9a14f7a447a1.png"> 
-    * Show teachers based on location (+1km ~ 3km)
-    * Detail View
+- Show teachers based on location (+1km ~ 3km)
+- Detail View
 
 
 **Chat Part**
 
 <img width="697" alt="chat" src="https://user-images.githubusercontent.com/60295192/130327937-adf46e75-8c6b-4557-a5c5-ae08743b886e.png">
-    * Real-time chatting
+- Real-time chatting
 
 
 ## Features
