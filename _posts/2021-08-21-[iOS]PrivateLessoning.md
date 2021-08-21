@@ -2,7 +2,7 @@
 layout: post
 title:  "[iOS] - Private Lessoning"
 info: "toy project"
-tech: "Swift" "Firebase"
+tech: "Swift, Firebase"
 type: Toy
 ---
 
