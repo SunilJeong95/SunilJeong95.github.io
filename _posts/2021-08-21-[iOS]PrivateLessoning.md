@@ -16,6 +16,7 @@ In GruopBuying project, We used KaKao Open Chatting beacause we don't have enoug
 In Private Lessoning Project, I added real-time chatting. Also, I added location range settings. 
 
 * Login Part 
+
 <img width="464" alt="login" src="https://user-images.githubusercontent.com/60295192/130327982-1be0fe4f-418e-4a30-ada1-2f1745768953.png">
     - Type selection (Student, Teacher)
     - Facebook Login
@@ -23,7 +24,8 @@ In Private Lessoning Project, I added real-time chatting. Also, I added location
 
 
 * Home Part
-<img width="697" alt="chat" src="https://user-images.githubusercontent.com/60295192/130328004-f22a8568-e939-48e6-a4a3-c8e4cb9a2827.png">
+
+<img width="1165" alt="home" src="https://user-images.githubusercontent.com/60295192/130328035-840afdd1-f317-4e09-ad56-9a14f7a447a1.png"> 
     - Show teachers based on location (+1km ~ 3km).
     - Detail View
 
