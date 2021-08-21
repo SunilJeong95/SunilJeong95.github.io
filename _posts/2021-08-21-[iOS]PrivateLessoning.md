@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [iOS] - Private Lessoning"
+title:  "[iOS] - Private Lessoning"
 info: "toy project"
 tech: "swift"
 type: Toy
