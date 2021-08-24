@@ -48,5 +48,5 @@ In Private Lessoning Project, I added real-time chatting. Also, I added location
     * 2021.08.03 ~ 2021.08.21
 
 ## Link
-    
+* [Presentation](https://youtu.be/kPC2gwdLfPw)    
 
