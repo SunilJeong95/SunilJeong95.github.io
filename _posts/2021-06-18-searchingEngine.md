@@ -8,7 +8,7 @@ type: Toy
 
 ## About 
 This project is a team project that I participated in during the semester.
-The goal of this project is to implement a search engine for the 10,000 unification papers.
+The goal of this project is to implement a fast search engine for the 10,000 unification papers.
 (I mainly described what I carried out.)
     
 **Server Management**
@@ -16,7 +16,7 @@ The goal of this project is to implement a search engine for the 10,000 unificat
   
 **Preprocessing**
   * Database relationship design
-  * Korean Morpheme Analyser - [khaiii]("https://github.com/kakao/khaiii") 
+  * Korean Morpheme Analyser - [khaiii](https://github.com/kakao/khaiii)
   * Inserting data into MySQL database 
 
 **Quering & Searching**
@@ -38,4 +38,4 @@ The goal of this project is to implement a search engine for the 10,000 unificat
     * 2021.04 ~ 2021.06
 
 ## Link
-  * [Presentation of our team]("https://youtu.be/GI-_GaHKxOM") 
+  * [Presentation of our team](https://youtu.be/GI-_GaHKxOM) 
