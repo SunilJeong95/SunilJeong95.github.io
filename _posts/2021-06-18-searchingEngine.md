@@ -38,4 +38,4 @@ The goal of this project is to implement a search engine for the 10,000 unificat
     * 2021.04 ~ 2021.06
 
 ## Link
-    * [Presentation of our team]("https://youtu.be/GI-_GaHKxOM") 
+  * [Presentation of our team]("https://youtu.be/GI-_GaHKxOM") 
