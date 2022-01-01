@@ -12,13 +12,12 @@ If you want to contact with me, please send me email.
 <br/>
 
 # Project Experiences
-* Domestic Travel Planner Site [2021.11. ~ 2021.12]
+* Domestic Travel Planner Site [2021.11. ~ 2021.12.]
+* PrivateLessoning iOS App [2021.08. ~ 2021.09.]
 * Search Engine for Korean Unification papers [2021.04. ~ 2021.06.]
-* [R&D] Voice-cloning Speech Synthesis using FastSpeech2 [2020.08 ~ 2021.04]
-* Escaple Room VR Game [2021.01.21. ~ 2021.01.22.]
-* Building Simple Racket Language using JAVA language [2020.10 ~ 2020.12]
+* [R&D] Voice-cloning Speech Synthesis using FastSpeech2 [2020.08 ~ 2021.04.]
 * Simple Social Network System App for Pohang Elementary School student [2020.08. ~ 2020.09.]
-* iOS Application for GroupBuying [2020.07. ~ 2020.08]
+* iOS Application for GroupBuying [2020.07. ~ 2020.08.]
 
 <br/>
 
