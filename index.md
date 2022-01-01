@@ -2,7 +2,7 @@
 layout: about 
 ---
 
-last update: Oct. 6, 2021
+last update: Jan 1, 2022
 
 # About Me
 In February 2022, I am planning to graduate at Handong Global University. <br/>
@@ -12,6 +12,7 @@ If you want to contact with me, please send me email.
 <br/>
 
 # Project Experiences
+* Domestic Travel Planner Site [2021.11. ~ 2021.12]
 * Search Engine for Korean Unification papers [2021.04. ~ 2021.06.]
 * [R&D] Voice-cloning Speech Synthesis using FastSpeech2 [2020.08 ~ 2021.04]
 * Escaple Room VR Game [2021.01.21. ~ 2021.01.22.]
@@ -22,11 +23,11 @@ If you want to contact with me, please send me email.
 <br/>
 
 # Skills
-* C, C#, C++, Python, Java, Swift and etc...
+* C, C#, C++, Python, Swift, Java, HTML, CSS, JavaScript, jQuery and etc...
 * MySQL, NoSQL, Firebase, Firestore, Oracle
-* Flask, Flutter, iOS, Pytorch, Unity
+* Flask, Flutter, iOS, Pytorch, Unity, Spring Framework
 * Windows, Linux(Ubuntu, CentOS), Unix(MacOS)
-* Amazon Web Services, Server Management, Mobile Programming, Git, Deep-learning, VR
+* Amazon Web Services, Server Management, Mobile Programming, Web Programming, Git, Deep-learning, VR
 
 <br/>
 
